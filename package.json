@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^18.0.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "register-commands": "node deploy-commands.js",
+    "unregister-commands": "node deploy-commands.js --clear"
+  }
+}
