@@ -1,63 +1,6 @@
 {
-  "firstPlaceHolders": [
-    "425612781996212244",
-    "1343058245178101792"
-  ],
-  "secondPlaceHolders": [
-    "198021591240540161"
-  ],
-  "history": [
-    {
-      "timestamp": "2026-10-28T16:44:18.432Z",
-      "executor": "aykimchi2000",
-      "firstPlace": {
-        "channelName": "富城's Channel",
-        "aliveTime": "4h 12m 50s",
-        "assignedUsers": [
-          "𝙰𝚈",
-          "ねこたま",
-          "吉娃娃"
-        ]
-      },
-      "secondPlace": null
-    },
-    {
-      "timestamp": "2026-10-28T16:45:09.499Z",
-      "executor": "aykimchi2000",
-      "firstPlace": {
-        "channelName": "富城's Channel",
-        "aliveTime": "4h 13m 40s",
-        "assignedUsers": [
-          "ねこたま",
-          "吉娃娃"
-        ]
-      },
-      "secondPlace": {
-        "channelName": "𝙰𝚈's Channel",
-        "aliveTime": "12s",
-        "assignedUsers": [
-          "𝙰𝚈"
-        ]
-      }
-    },
-    {
-      "timestamp": "2026-10-28T16:47:18.727Z",
-      "executor": "aykimchi2000",
-      "firstPlace": {
-        "channelName": "富城's Channel",
-        "aliveTime": "4h 15m 51s",
-        "assignedUsers": [
-          "ねこたま",
-          "吉娃娃"
-        ]
-      },
-      "secondPlace": {
-        "channelName": "𝙰𝚈's Channel",
-        "aliveTime": "2m 23s",
-        "assignedUsers": [
-          "𝙰𝚈"
-        ]
-      }
-    }
-  ]
+  "channels": {},
+  "firstPlaceHolders": [],
+  "secondPlaceHolders": [],
+  "history": []
 }
